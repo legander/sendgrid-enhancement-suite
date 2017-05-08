@@ -2,5 +2,4 @@
 Chrome extension that makes Sendgrid website usable..
 
 
-Go to __chrome://extensions__
-Press "Load unpacked extension.." and select the cloned dir.
+Go to __chrome://extensions__, press "Load unpacked extension.." and select the cloned dir.
